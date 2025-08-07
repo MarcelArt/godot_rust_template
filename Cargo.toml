@@ -1,10 +1,10 @@
 [package]
 name = "godot_rust_template"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib"] 
 
 [dependencies]
-godot = "0.2.4"
+godot = "0.3.4"
